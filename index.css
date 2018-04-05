@@ -1,0 +1,13 @@
+html,
+body,
+#viewDiv {
+	padding: 0;
+        margin: 0;
+        height: 525px;
+        width: 1000px;
+}
+#chart {height: 400px; width: 1000px;}
+.esri-legend {
+	background-color: whitesmoke;
+        color: rgb(3, 3, 3);
+}
